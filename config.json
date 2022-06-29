@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Jonathan Harris"
+  },
+  "text": {
+    "more": "Data sourced from Friends House Library, London",
+    "intro": "Networks of African participants in Quaker Diplomats\u0027 Conferences 1952-74\nVenues in Europe (Numerals), Asia (A-), Japan (J-) and USA (MC-)\n1952\tI\n1953\tII,III\n1954\tIV\n1955\tA-1, V, VI\n1956\tVII, VIII\n1957\tA-2, IX, X\n1958\tXI, XII\n1959\tMC-1, XIII, XIV\n1960\tXV, XVI, XVII\n1961\tA-3, XIX, XVIII\n1962\tA-4, MC-3, XX, XXI\n1963\tA-5, MC-4, XXII, XXIII\n1964\tMC-5, MC-6, XXIV, XXV\n1965\tA-6, J-65, MC-7, MC-8, MC-9, XXVI, XXVII\n1966\tA-7, J-66, MC-10, MC-11, MC-12, XXVIII, XXIX\n1967\tJ-67, MC-13, MC-14, XXX, XXXI\n1968\tA-8, J-68, MC-15, XXXII, XXXIII\n1969\tA-9, J-69, MC-16, XXXIV, XXXV\n1970\tJ-70, MC-17, MCJ-70, XXXVI, XXXVII\n1971\tJ-71, MC-18, MC-19, MC-20, XXXIX, XXXVIII\n1972\tJ-72, MC-21, XL, XLI\n1973\tJ-73, MC-22, MC-23, XLII\n1974\tXLII, XLIII\n1975\tJ-75, J-76, MC-24, XLV\n1976\tMC-25, XLVI, XLVII",
+    "title": "Africans at Quaker Diplomats\u0027 Conferences 1952-74"
+  },
+  "legend": {
+    "edgeLabel": "Conference Attended",
+    "colorLabel": "Expert, African or Other",
+    "nodeLabel": "Participant"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": false,
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
