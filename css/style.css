@@ -122,7 +122,7 @@ float: left;
 
 #attributepane .close span {
 display: block;
-width: 151px;
+width: auto;
 float: left;
 }
 
