@@ -63,7 +63,7 @@ canvas#sigma_bg_1 {
 	width: auto;
 	background-color: #fff;
 	margin: 0;
-	word-wrap: break-word;
+	word-wrap: auto;
 	background-color:rgba(255,255,255,0.8);
 	border-left: 1px solid #ccc;
 	padding: 0px 18px 0px 18px;	
