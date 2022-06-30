@@ -33,12 +33,11 @@ html,body {
 
 .sigma-expand {
 	position: absolute;
-	width: 100%;
+	width: auto;
 	height: 100%;
 	top: 0;
 	left: 0;
 	background-color: #eee;
-	background-position: center center;
 	background-repeat: no-repeat;
 	-webkit-touch-callout: none;
 	-webkit-user-select: none;
