@@ -56,7 +56,7 @@ canvas#sigma_bg_1 {
    	display: block;	
 	display: none;
     position:absolute;
-    width:350px;
+    width:200px;
     height:auto;
     bottom:0;
     top:0;
@@ -245,7 +245,7 @@ padding: 0px 0 0 0;
 }
 
 #mainpanel .col {
-width: auto;
+width: 300px;
 padding: 18px 18px 18px 18px;
 margin: 0;
 
