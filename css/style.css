@@ -245,7 +245,7 @@ padding: 0px 0 0 0;
 }
 
 #mainpanel .col {
-width: 320px;
+width: auto;
 padding: 10px 10px 10px 10px;
 margin: 0;
 
