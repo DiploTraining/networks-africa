@@ -245,8 +245,8 @@ padding: 0px 0 0 0;
 }
 
 #mainpanel .col {
-width: 300px;
-padding: 18px 18px 18px 18px;
+width: 320px;
+padding: 10px 10px 10px 10px;
 margin: 0;
 
 }
@@ -256,11 +256,11 @@ font-weight: bold;
 }
 
 #titletext {
-padding: 6px 0 10px 0;
+padding: 6px 0 6px 0;
 }
 
 #info {
-	padding-bottom:15px;
+	padding-bottom:5px;
 }
 
 
