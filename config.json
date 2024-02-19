@@ -9,12 +9,12 @@
   },
   "text": {
     "more": "Data sourced from 'Quaker International Conferences Participants Directory: Programs in Asia, Europe and U.S.A.: 1952-1976' and 'Conferences for diplomats: Programs in Europe, Asia, U.S.A. and Africa: conference membership 1952-1965' held by Friends House Library, London",
-    "intro": "Venues in Europe (Numerals), Asia (A-), Japan (J-) and USA (MC-)<br />1952\tI<br />1953\tII,III<br />1954\tIV<br />1955\tA-1, V, VI<br />1956\tVII, VIII<br />1957\tA-2, IX, X<br />1958\tXI, XII<br />1959\tMC-1, XIII, XIV<br />1960\tXV, XVI, XVII<br />1961\tA-3, XIX, XVIII<br />1962\tA-4, MC-3, XX, XXI<br />1963\tA-5, MC-4, XXII, XXIII<br />1964\tMC-5, MC-6, XXIV, XXV<br />1965\tA-6, J-65, MC-7-9, XXVI, XXVII<br />1966\tA-7, J-66, MC-10-12, XXVIII, XXIX<br />1967\tJ-67, MC-13, MC-14, XXX, XXXI<br />1968\tA-8, J-68, MC-15, XXXII, XXXIII<br />1969\tA-9, J-69, MC-16, XXXIV, XXXV<br />1970\tJ-70, MC-17, MCJ-70, XXXVI, XXXVII<br />1971\tJ-71, MC-18-20, XXXIX, XXXVIII<br />1972\tJ-72, MC-21, XL, XLI<br />1973\tJ-73, MC-22, MC-23, XLII<br />1974\tXLII, XLIII<br />1975\tJ-75, J-76, MC-24, XLV<br />1976\tMC-25, XLVI, XLVII",
-    "title": "Africans at Quaker Diplomats\u0027 Conferences 1952-76"
+    "intro": "This interactive visualiser displays details of African trainees who attended international diplomatic training programmes for newly independent states from 1960-1980.",
+    "title": "Diplomatic Training Network Visualiser"
   },
   "legend": {
-    "edgeLabel": "Conference Attended",
-    "colorLabel": "Expert, African or Other",
+    "edgeLabel": "Course Attended",
+    "colorLabel": "Colonial Language",
     "nodeLabel": "Participant"
   },
   "features": {
