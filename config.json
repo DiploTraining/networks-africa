@@ -8,13 +8,13 @@
     "text": "Jonathan Harris"
   },
   "text": {
-    "more": "Data sourced from 'Quaker International Conferences Participants Directory: Programs in Asia, Europe and U.S.A.: 1952-1976' and 'Conferences for diplomats: Programs in Europe, Asia, U.S.A. and Africa: conference membership 1952-1965' held by Friends House Library, London",
+    "more": "Data sourced from Training Diplomats project, www.diplotraining.org",
     "intro": "This interactive visualiser displays details of African trainees who attended international diplomatic training programmes for newly independent states from 1960-1980.",
     "title": "Diplomatic Training Network Visualiser"
   },
   "legend": {
     "edgeLabel": "Course Attended",
-    "colorLabel": "Colonial Language",
+    "colorLabel": "Primary Language",
     "nodeLabel": "Participant"
   },
   "features": {
