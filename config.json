@@ -14,7 +14,7 @@
   },
   "legend": {
     "edgeLabel": "Course Attended",
-    "colorLabel": "Primary Language",
+    "colorLabel": "Primary Language: <span style="color":"rgb(114,138,255)">French</span> <span style="color":"rgb(255,90,173)">English</span>,
     "nodeLabel": "Participant"
   },
   "features": {
