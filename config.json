@@ -13,8 +13,8 @@
     "title": "Diplomatic Training Network Visualiser"
   },
   "legend": {
-  	"edgeLabel": "Course Attended:<span style=\"color:rgb(0,196,255);\">Nairobi DTP</span> | <span style=\"color:rgb(114,138,255);\">Oxford FSP</span> | <span style=\"color:rgb(23,207,0);\">Paris IIAP</span> | <span style=\"color:rgb(223,137,255);\">Yaoundé IRIC</span> | <span style=\"color:rgb(255,136,5);\">Geneva IUHEI</span>,
-  	"colorLabel": "Trainee Diplomat:<span style=\"color:rgb(114,138,255);\">• Francophone </span><span style=\"color:rgb(255,90,173);\">• Anglophone </span><span style=\"color:rgb(255,112,69);\">• Hispanophone </span><span style=\"color:rgb(35,150,111);\">• Lusophone </span><span style=\"color:rgb(0,199,255);\">• Unknown </span>",
+  	"edgeLabel": "Course Attended:<span style=\"color:rgb(0,196,255);\">Nairobi DTP</span> | <span style=\"color:rgb(114,138,255);\">Oxford FSP</span> | <span style=\"color:rgb(23,207,0);\">Paris IIAP</span> | <span style=\"color:rgb(223,137,255);\">Yaoundé IRIC</span> | <span style=\"color:rgb(255,136,5);\">Geneva IUHEI</span>",
+  	"colorLabel": "Trainee Diplomat:<span style=\"color:rgb(114,138,255);\">• Francophone </span><span style=\"color:rgb(255,90,173);\">• Anglophone </span><span style=\"color:rgb(255,112,69);\">• Hispanophone </span><span style=\"color:rgb(35,150,111);\">• Lusophone </span><span style=\"color:rgb(0,199,255);\">• Unknown</span>",
   	"nodeLabel": "Trainee Diplomat"
   	},
   "features": {
